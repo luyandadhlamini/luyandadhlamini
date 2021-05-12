@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luyandadhlamini
+- 👋 Hi, I’m @luyandadhlamini (Loo-Yaah-Ndaa)
 - 👀 I’m interested in:
 -  * Using Data Science to model real world events. 
 -  * Helping growing companies acquire customers at scale.
